@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from bootstrapdash.com/demo/wizard-free-1/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jun 2023 04:46:54 GMT -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>BootstrapDash Wizard</title>
+  <link href="https://fonts.googleapis.com/css?family=Karla:400,700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/bd-wizard.css">
+</head>
+<body>
+  <main class="d-flex align-items-center">
+    <div class="container">
+        <div id="wizard">
+          <h3>Step 1 Title</h3>
+          <section>
+            <h5 class="bd-wizard-step-title">Step 1</h5>
+            <h2 class="section-heading">What type of your business</h2>
+            <div class="form-group">
+              <label for="firstName" class="sr-only">Bus</label>
+              <input type="text" name="firstName" id="firstName" class="form-control" placeholder="First Name">
+            </div>
+          </section>
+          <h3>Step 2 Title</h3>
+          <section>
+           <h5 class="bd-wizard-step-title">Step 2</h5>
+           <h2 class="section-heading">Select business Gatgory </h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+           <div class="purpose-radios-wrapper">
+              <div class="purpose-radio">
+                  <input type="radio" name="purpose" id="branding" class="purpose-radio-input" value="Branding" checked>
+                 <label for="branding" class="purpose-radio-label">
+                   <span class="label-icon">
+                     <img src="assets/images/icon_branding.svg" alt="branding" class="label-icon-default">
+                     <img src="assets/images/icon_branding_green.svg" alt="branding" class="label-icon-active">
+                   </span>
+                   <span class="label-text">Branding</span>
+                 </label>
+                </div>
+                <div class="purpose-radio">
+                   <input type="radio" name="purpose" id="mobile-design" class="purpose-radio-input" value="Moile Design">
+                  <label for="mobile-design" class="purpose-radio-label">
+                    <span class="label-icon">
+                      <img src="assets/images/icon_mobile_design.svg" alt="branding" class="label-icon-default">
+                      <img src="assets/images/icon_mobile_design_green.svg" alt="branding" class="label-icon-active">
+                    </span>
+                    <span class="label-text">Moile Design</span>
+                  </label>
+                 </div>
+                 <div class="purpose-radio">
+                     <input type="radio" name="purpose" id="web-design" class="purpose-radio-input" value="Web Design">
+                    <label for="web-design" class="purpose-radio-label">
+                      <span class="label-icon">
+                        <img src="assets/images/icon_web_design.svg" alt="branding" class="label-icon-default">
+                        <img src="assets/images/icon_web_design_green.svg" alt="branding" class="label-icon-active">
+                      </span>
+                      <span class="label-text">Web Design</span>
+                    </label>
+                   </div>
+           </div>
+          </section>
+          <h3>Step 3 Title</h3>
+          <section>
+            <h5 class="bd-wizard-step-title">Step 3</h5>
+            <h2 class="section-heading">Enter your Account Details</h2>
+            <div class="form-group">
+              <label for="firstName" class="sr-only">First Name</label>
+              <input type="text" name="firstName" id="firstName" class="form-control" placeholder="First Name">
+            </div>
+            <div class="form-group">
+              <label for="lastName" class="sr-only">Last Name</label>
+              <input type="text" name="lastName" id="lastName" class="form-control" placeholder="Last Name">
+            </div>
+            <div class="form-group">
+              <label for="phoneNumber" class="sr-only">Phone Number</label>
+              <input type="text" name="phoneNumber" id="phoneNumber" class="form-control" placeholder="Phone Number">
+            </div>
+            <div class="form-group">
+              <label for="emailAddress" class="sr-only">Email Address</label>
+              <input type="email" name="emailAddress" id="emailAddress" class="form-control" placeholder="Email Address">
+            </div>
+          </section>
+          <h3>Step 4 Title</h3>
+          <section>
+            <div class="container">
+              <div class="row">
+                <div class="col">
+              <h5 class="bd-wizard-step-title">Step 4</h5>
+              <h2 class="section-heading mb-5">Payment Method</h2>
+              <div class="row">
+                <div class="col-6">
+                  <h6 class="font-weight-bold">Enter your Account Details</h6>
+                  <p class="mb-4"><span id="enteredFirstName">Cha</span> <span id="enteredLastName">Ji-Hun C</span> <br>
+                      Phone: <span id="enteredPhoneNumber">+230-582-6609</span> <br>
+                      Email: <span id="enteredEmailAddress">willms_abby@gmail.com</span></p>
+                </div>
+                <div class="col-6">
+                  <h6 class="font-weight-bold">Select business type</h6>
+              <p class="mb-4" id="business-type">Branding</p>
+                </div>
+              </div>
+                  </div>
+                  </div>
+                  <div class="row">
+                    <div id="credit-card" class="tab-pane fade show active pt-3">
+                      <form role="form">
+                          <div class="form-group">
+                              <label for="username">
+                                  <h6>Card Owner</h6>
+                              </label>
+                              <input type="text" name="username" placeholder="Card Owner Name" required class="form-control" />
+                          </div>
+                          <div class="form-group">
+                              <label for="cardNumber">
+                                  <h6>Card number</h6>
+                              </label>
+                              <div class="input-group">
+                                  <input type="text" name="cardNumber" placeholder="Valid card number" class="form-control" required />
+                                  <div class="input-group-append">
+                                      <span class="input-group-text text-muted"> <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#28cc5f}</style><path d="M470.1 231.3s7.6 37.2 9.3 45H446c3.3-8.9 16-43.5 16-43.5-.2.3 3.3-9.1 5.3-14.9l2.8 13.4zM576 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h480c26.5 0 48 21.5 48 48zM152.5 331.2L215.7 176h-42.5l-39.3 106-4.3-21.5-14-71.4c-2.3-9.9-9.4-12.7-18.2-13.1H32.7l-.7 3.1c15.8 4 29.9 9.8 42.2 17.1l35.8 135h42.5zm94.4.2L272.1 176h-40.2l-25.1 155.4h40.1zm139.9-50.8c.2-17.7-10.6-31.2-33.7-42.3-14.1-7.1-22.7-11.9-22.7-19.2.2-6.6 7.3-13.4 23.1-13.4 13.1-.3 22.7 2.8 29.9 5.9l3.6 1.7 5.5-33.6c-7.9-3.1-20.5-6.6-36-6.6-39.7 0-67.6 21.2-67.8 51.4-.3 22.3 20 34.7 35.2 42.2 15.5 7.6 20.8 12.6 20.8 19.3-.2 10.4-12.6 15.2-24.1 15.2-16 0-24.6-2.5-37.7-8.3l-5.3-2.5-5.6 34.9c9.4 4.3 26.8 8.1 44.8 8.3 42.2.1 69.7-20.8 70-53zM528 331.4L495.6 176h-31.1c-9.6 0-16.9 2.8-21 12.9l-59.7 142.5H426s6.9-19.2 8.4-23.3H486c1.2 5.5 4.8 23.3 4.8 23.3H528z"/></svg>
+                                        <svg class="icon" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="48" height="30" aria-labelledby="pi-master"><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"></path><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"></path><circle fill="#EB001B" cx="15" cy="12" r="7"></circle><circle fill="#F79E1B" cx="23" cy="12" r="7"></circle><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"></path></svg> </span>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="row">
+                              <div class="col-sm-8">
+                                  <div class="form-group">
+                                      <label>
+                                          <span class="hidden-xs">
+                                              <h6>Expiration Date</h6>
+                                          </span>
+                                      </label>
+                                      <div class="input-group"><input type="number" placeholder="MM" name="" class="form-control" required /> <input type="number" placeholder="YY" name="" class="form-control" required /></div>
+                                  </div>
+                              </div>
+                              <div class="col-sm-4">
+                                  <div class="form-group mb-4">
+                                      <label data-toggle="tooltip" title="Three digit CV code on the back of your card">
+                                          <h6>CVV <i class="fa fa-question-circle d-inline"></i></h6>
+                                      </label>
+                                      <input type="text" required class="form-control" />
+                                  </div>
+                              </div>
+                          </div>
+                          <button type="button" class="btn" style="background-color: #00D69F;" onclick="payment()">Confirm Payment</button>
+                      </form>
+                  </div>
+                  </div>
+
+                  </div>
+          </section>
+        </div>
+    </div>
+  </main>
+  <script src="assets/js/jquery-3.4.1.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.steps.min.js"></script>
+  <script src="assets/js/bd-wizard.js"></script>
+  <script>
+    // function payment(){
+    //   alert('success');
+    // }
+    function ShowSome(){
+      
+      var name = document.getElementById('firstName').value;
+      alert('hello'+ name);
+    }
+  </script>
+
+</body>
+
+<!-- Mirrored from bootstrapdash.com/demo/wizard-free-1/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Jun 2023 04:47:04 GMT -->
+</html>
