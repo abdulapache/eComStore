@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\eComeStoreBuilder.csproj": {}
+    "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\eComeStoreBuilder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\eComeStoreBuilder.csproj": {
+    "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\eComeStoreBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\eComeStoreBuilder.csproj",
+        "projectUniqueName": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\eComeStoreBuilder.csproj",
         "projectName": "eComeStoreBuilder",
-        "projectPath": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\eComeStoreBuilder.csproj",
-        "packagesPath": "C:\\Users\\rahma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\obj\\",
+        "projectPath": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\eComeStoreBuilder.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rahma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +42,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

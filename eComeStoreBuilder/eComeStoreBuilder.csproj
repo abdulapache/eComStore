@@ -7,29 +7,40 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\eComStore\404.cshtml" />
-    <Content Remove="Views\eComStore\about-us.cshtml" />
-    <Content Remove="Views\eComStore\all-product.cshtml" />
-    <Content Remove="Views\eComStore\blog-details.cshtml" />
-    <Content Remove="Views\eComStore\contact.cshtml" />
-    <Content Remove="Views\eComStore\login.cshtml" />
-    <Content Remove="Views\eComStore\register.cshtml" />
+    <Compile Remove="Context\**" />
+    <Content Remove="Context\**" />
+    <EmbeddedResource Remove="Context\**" />
+    <None Remove="Context\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\Home\about-us.cshtml" />
+    <Content Remove="Views\StoreRequest\404.cshtml" />
+    <Content Remove="Views\StoreRequest\about-us.cshtml" />
+    <Content Remove="Views\StoreRequest\all-product.cshtml" />
+    <Content Remove="Views\StoreRequest\blog-details.cshtml" />
+    <Content Remove="Views\StoreRequest\contact.cshtml" />
+    <Content Remove="Views\StoreRequest\login.cshtml" />
+    <Content Remove="Views\StoreRequest\register.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Views\eComStore\404.cshtml" />
-    <None Include="Views\eComStore\about-us.cshtml" />
-    <None Include="Views\eComStore\all-product.cshtml" />
-    <None Include="Views\eComStore\blog-details.cshtml" />
-    <None Include="Views\eComStore\contact.cshtml" />
-    <None Include="Views\eComStore\login.cshtml" />
-    <None Include="Views\eComStore\register.cshtml" />
     <None Include="Views\Home\about-us.cshtml" />
+    <None Include="Views\StoreRequest\404.cshtml" />
+    <None Include="Views\StoreRequest\about-us.cshtml" />
+    <None Include="Views\StoreRequest\all-product.cshtml" />
+    <None Include="Views\StoreRequest\blog-details.cshtml" />
+    <None Include="Views\StoreRequest\contact.cshtml" />
+    <None Include="Views\StoreRequest\login.cshtml" />
+    <None Include="Views\StoreRequest\register.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
