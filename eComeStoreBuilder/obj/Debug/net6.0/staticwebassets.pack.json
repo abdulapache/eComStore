@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eComeStoreBuilder.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eComeStoreBuilder.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticon-2.html",
+      "PackagePath": "staticwebassets\\css\\Flaticon-2.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticon-3.html",
+      "PackagePath": "staticwebassets\\css\\Flaticon-3.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticon-4.html",
+      "PackagePath": "staticwebassets\\css\\Flaticon-4.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticon-5.html",
+      "PackagePath": "staticwebassets\\css\\Flaticon-5.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticon.html",
+      "PackagePath": "staticwebassets\\css\\Flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\Flaticond41d.html",
+      "PackagePath": "staticwebassets\\css\\Flaticond41d.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\bd-wizard.css",
+      "PackagePath": "staticwebassets\\css\\bd-wizard.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min copy.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min copy.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_217bc0_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_217bc0_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_2e83ff_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_2e83ff_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_469bdd_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_469bdd_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_6da8d5_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_6da8d5_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_cd0a0a_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cd0a0a_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_d8e7f3_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_d8e7f3_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\images\\ui-icons_f9bd01_256x240.html",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_f9bd01_256x240.html"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\imagetooltip.min.css",
+      "PackagePath": "staticwebassets\\css\\imagetooltip.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\bg\\breadcrumb_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\breadcrumb_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\bg\\fact_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\fact_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\bg\\features_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\features_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\bg\\footer_bg.png",
+      "PackagePath": "staticwebassets\\img\\bg\\footer_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\bg\\pricing_box_bg.png",
+      "PackagePath": "staticwebassets\\img\\bg\\pricing_box_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\avatar_img.png",
+      "PackagePath": "staticwebassets\\img\\blog\\avatar_img.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\banner_add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\banner_add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\blog_avatar_img.png",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_avatar_img.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\blog_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\blog_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\blog_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\comment_avatar01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_avatar01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\comment_avatar02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_avatar02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\comment_avatar03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_avatar03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\inner_blog_avatar01.png",
+      "PackagePath": "staticwebassets\\img\\blog\\inner_blog_avatar01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\inner_blog_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\inner_blog_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\inner_blog_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\inner_blog_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\inner_blog_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\inner_blog_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\rc_post_thumb01.png",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\rc_post_thumb02.png",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\rc_post_thumb03.png",
+      "PackagePath": "staticwebassets\\img\\blog\\rc_post_thumb03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\blog\\sidebar_about.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar_about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\Dukanlay.jpg",
+      "PackagePath": "staticwebassets\\img\\brand\\Dukanlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\Freshstore logo white.png",
+      "PackagePath": "staticwebassets\\img\\brand\\Freshstore logo white.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\IBI-logo (1).png",
+      "PackagePath": "staticwebassets\\img\\brand\\IBI-logo (1).png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\IBI-logo.png",
+      "PackagePath": "staticwebassets\\img\\brand\\IBI-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo01.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo02.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo03.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo04.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo04.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo05.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo05.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo06.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo06.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo07.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo07.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo08.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo08.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo09.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo09.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\brand_logo10.png",
+      "PackagePath": "staticwebassets\\img\\brand\\brand_logo10.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\logo-header.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\logo-header.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\brand\\urban-races-logo(2).png",
+      "PackagePath": "staticwebassets\\img\\brand\\urban-races-logo(2).png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\down_arrow.png",
+      "PackagePath": "staticwebassets\\img\\icon\\down_arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\fact_icon01.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fact_icon01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\fact_icon02.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fact_icon02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\fact_icon03.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fact_icon03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\fact_icon04.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fact_icon04.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\features_icon01.png",
+      "PackagePath": "staticwebassets\\img\\icon\\features_icon01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\features_icon02.png",
+      "PackagePath": "staticwebassets\\img\\icon\\features_icon02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\features_icon03.png",
+      "PackagePath": "staticwebassets\\img\\icon\\features_icon03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\features_icon04.png",
+      "PackagePath": "staticwebassets\\img\\icon\\features_icon04.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\roket.png",
+      "PackagePath": "staticwebassets\\img\\icon\\roket.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon01.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon011.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon011.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon012.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon012.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon013.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon013.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon02.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\services_icon03.png",
+      "PackagePath": "staticwebassets\\img\\icon\\services_icon03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\testi_quote01.png",
+      "PackagePath": "staticwebassets\\img\\icon\\testi_quote01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\icon\\testi_quote02.png",
+      "PackagePath": "staticwebassets\\img\\icon\\testi_quote02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\404_img.png",
+      "PackagePath": "staticwebassets\\img\\images\\404_img.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\card_img.png",
+      "PackagePath": "staticwebassets\\img\\images\\card_img.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\features_polygon.png",
+      "PackagePath": "staticwebassets\\img\\images\\features_polygon.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author01.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author02.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author03.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author04.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author05.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author06.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author07.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author08.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author09.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author10.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author11.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author12.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author13.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\forums_author14.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\forums_author14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\preload.animation.gif",
+      "PackagePath": "staticwebassets\\img\\images\\preload.animation.gif"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\pricing_circle.png",
+      "PackagePath": "staticwebassets\\img\\images\\pricing_circle.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\pricing_circle02.png",
+      "PackagePath": "staticwebassets\\img\\images\\pricing_circle02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\testi_avatar.png",
+      "PackagePath": "staticwebassets\\img\\images\\testi_avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\images\\testi_shape.png",
+      "PackagePath": "staticwebassets\\img\\images\\testi_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\logo\\Dukanlay.jpg",
+      "PackagePath": "staticwebassets\\img\\logo\\Dukanlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\check-out01.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\check-out01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\item_comment_avatar01.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\item_comment_avatar01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\item_comment_avatar02.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\item_comment_avatar02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\item_comment_avatar03.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\item_comment_avatar03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\item_comment_avatar04.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\item_comment_avatar04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\porduct_avatar01.png",
+      "PackagePath": "staticwebassets\\img\\product\\porduct_avatar01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\porduct_avatar02.png",
+      "PackagePath": "staticwebassets\\img\\product\\porduct_avatar02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_details_img.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_details_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview01.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview02.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview03.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview04.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview05.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_preview06.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product_preview06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail01.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail02.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail03.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail04.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail04.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail05.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail05.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail06.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail06.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail07.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail07.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail08.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail08.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail09.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail09.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail10.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail10.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail11.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail11.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail12.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail12.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail13.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail13.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail14.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail14.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail15.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail15.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail16.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail16.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail17.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail17.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail18.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail18.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail19.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail19.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail20.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail20.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail21.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail21.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail22.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail22.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail23.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail23.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail24.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail24.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail25.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail25.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail26.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail26.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\product_thumbnail27.png",
+      "PackagePath": "staticwebassets\\img\\product\\product_thumbnail27.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb04.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb05.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\project_thumb06.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\project_thumb06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\vendor_product_thumb01.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\vendor_product_thumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\vendor_product_thumb02.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\vendor_product_thumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\vendor_product_thumb03.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\vendor_product_thumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\product\\vendor_profile_img.png",
+      "PackagePath": "staticwebassets\\img\\product\\vendor_profile_img.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_bottom_shape.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_bottom_shape.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_img01.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_img02.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_img02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_img_ellipse.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_img_ellipse.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_shape01.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_shape01.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_shape02.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_shape02.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\img\\slider\\slider_shape03.png",
+      "PackagePath": "staticwebassets\\img\\slider\\slider_shape03.png"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\bd-wizard.js",
+      "PackagePath": "staticwebassets\\js\\bd-wizard.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\bootstrap.min copy.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min copy.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\imagetooltip.min.js",
+      "PackagePath": "staticwebassets\\js\\imagetooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\parallax-scroll.js",
+      "PackagePath": "staticwebassets\\js\\parallax-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\popper.min copy.js",
+      "PackagePath": "staticwebassets\\js\\popper.min copy.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\tag.js",
+      "PackagePath": "staticwebassets\\js\\tag.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahma\\OneDrive\\Desktop\\eComeStoreBuilder\\eComeStoreBuilder\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eComeStoreBuilder.props",
+      "PackagePath": "build\\eComeStoreBuilder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eComeStoreBuilder.props",
+      "PackagePath": "buildMultiTargeting\\eComeStoreBuilder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eComeStoreBuilder.props",
+      "PackagePath": "buildTransitive\\eComeStoreBuilder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eComeStoreBuilder.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

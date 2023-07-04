@@ -1,0 +1,291 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>@ViewData["Title"] - Free Store Builder </title>
+    <meta name="description" content="">
+    <meta name="robots" content="noindex, follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/flatly/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/animate.min.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/css/imagetooltip.min.css">
+    <link rel="stylesheet" href="~/css/aos.css">
+    <link rel="stylesheet" href="~/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="~/css/flaticon.css">
+    <link rel="stylesheet" href="~/css/meanmenu.css">
+    <link rel="stylesheet" href="~/css/slick.css">
+    <link rel="stylesheet" href="~/css/default.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/responsive.css">
+
+
+    <!-- ............................. -->
+
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/materialdesignicons.min.css">
+    <!-- <link rel="stylesheet" href="assets/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="~/css/bd-wizard.css">
+
+    <!-- .............................. -->
+   </head>
+<body>
+   
+    <header>
+      <div class="header-top primary-bg">
+         <div class="container-fluid container-padding">
+            <div class="row align-items-center">
+               <div class="col-md-6">
+                  <div class="header-top-offer">
+                     <p>Exclusive Black Friday ! Offer</p>
+                     <span class="coming-time" data-countdown="2023/3/20">
+                        <div class="time-count"><span>00</span>Days</div>
+                     </span>
+                  </div>
+               </div>
+               <div class="col-md-6 d-none d-md-block">
+                  <div class="header-top-right">
+                     <ul>
+                        <li><a href="https://www.facebook.com/Dukanlay/"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li class="search-icon"><a href="#" data-toggle="modal" data-target="#search-modal"><i
+                                 class="fas fa-search"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="menu-area transparent-header">
+         <div class="container-fluid container-padding">
+            <div class="row align-items-center">
+               <div class="col-lg-3">
+                  <div class="logo">
+                     <a href="index.html"><img src="img/logo/Dukanlay.jpg" alt="Logo"></a>
+                  </div>
+               </div>
+               <div class="col-lg-9 d-none d-lg-block">
+                  <div class="main-menu">
+                     <nav id="mobile-menu" class="d-flex align-items-center justify-content-end">
+                        <ul>
+                           <li class="active"><a href="index.html">Home</a></li>
+                                    <li><a asp-page="/about-us">About Us</a></li>
+                           <li><a href="all-product.html">Themes</a>
+                           </li>
+                           <li><a href="contact.html">Contact</a></li>
+                           <li class="header-btn">
+                              <a href="#store">
+                                 <button class="btn" style="color: white;"><i class="fas fa-user"></i> Create Your
+                                    Store</button>
+                              </a>
+                           </li>
+
+                           <li class="header-btn">
+                              <a href="login.html"> <button class="btn" style="color: white;"><i
+                                       class="fas fa-user"></i> Accounts</button></a>
+                           </li>
+
+
+                        </ul>
+                     </nav>
+                  </div>
+               </div>
+               <div class="col-12">
+                  <div class="mobile-menu"></div>
+               </div>
+               <!-- Modal Search -->
+               <div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                     <div class="modal-content">
+                        <form>
+                           <input type="text" placeholder="Search here...">
+                           <button><i class="fa fa-search"></i></button>
+                        </form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </header>
+
+    @RenderBody()
+
+
+
+    <!-- footer-area -->
+    <footer>
+        <div class="footer-top footer-bg">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="footer-widget mb-50">
+                            <div class="footer-logo mb-35">
+                                <a href="index.html"><img src="img/logo/Dukanlay.jpg" alt="Logo"></a>
+                            </div>
+                            <div class="footer-text">
+                                <p>Free Store Builder marketplace the relase etras thats sheets continig passag.</p>
+                                <div class="footer-contact">
+                                    <ul>
+                                        <li>
+                                            <i class="fas fa-map-marker-alt"></i> <span>Address : </span>DukanLay.com,82 E1 Wapda
+                                            Town Lahore
+                                        </li>
+                                        <li>
+                                            <i class="fas fa-headphones"></i> <span>Phone : </span><a href="tel:+923091406942">+923091406942</a>
+                                        </li>
+                                        <li>
+                                            <i class="fas fa-envelope-open"></i><span>Email : </span><a href="mailto:info@dukanlay.com" class="__cf_email__">info@dukanlay.com</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-4 col-sm-6">
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35">
+                                <h5>Pages</h5>
+                            </div>
+                            <div class="fw-link">
+                                <ul>
+                                    <li><a href="about-us.html">About Us </a></li>
+                                    <li><a href="contact.html">Contact </a></li>
+                                    <li><a href="all-product.html">Themes </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-4 col-sm-6">
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35">
+                                <h5>Need Help?</h5>
+                            </div>
+                            <div class="fw-link">
+                                <ul>
+                                    <li><a href="#">Terms & Conditions</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Refund Policy</a></li>
+                                    <li><a href="#">Affiliate</a></li>
+                                    <li><a href="#">FAQUse Cases</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35">
+                                <h5>Follow us</h5>
+                            </div>
+                            <div class="footer-social">
+                                <ul>
+                                    <li><a href="https://www.facebook.com/Dukanlay/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                    <!-- <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li> -->
+                                    <!-- <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="footer-widget mb-50">
+                            <div class="fw-title mb-35">
+                                <h5>newsletter sign up</h5>
+                            </div>
+                            <div class="footer-newsletter">
+                                <form action="#">
+                                    <input type="text" placeholder="Enter your email">
+                                    <button><i class="fas fa-rocket"></i></button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-wrap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="copyright-text">
+                            <p>Copyright © 2023<a href="#">Gemas</a> All Rights Reserved.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 d-none d-md-block">
+                        <div class="payment-method-img text-right">
+                            <img src="img/images/card_img.png" alt="img">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer-area-end -->
+    <!-- JS here -->
+    <script src="~/js/jquery-1.12.4.min.js"></script>
+
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/isotope.pkgd.min.js"></script>
+    <script src="~/js/slick.min.js"></script>
+    <script src="~/js/jquery.meanmenu.min.js"></script>
+    <script src="~/js/ajax-form.js"></script>
+    <script src="~/js/wow.min.js"></script>
+    <script src="~/js/aos.js"></script>
+    <script src="~/js/jquery-ui.min.js"></script>
+    <script src="~/js/parallax-scroll.js"></script>
+    <script src="~/js/imagetooltip.min.js"></script>
+    <script src="~/js/jquery.countdown.min.js"></script>
+    <script src="~/js/jquery.waypoints.min.js"></script>
+    <script src="~/js/jquery.counterup.min.js"></script>
+    <script src="~/js/jquery.scrollUp.min.js"></script>
+    <script src="~/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/plugins.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="~/js/tag.js"></script>
+
+
+
+    <!-- .................................. -->
+
+    <script src="~/js/jquery-3.4.1.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/jquery.steps.min.js"></script>
+    <script src="~/js/bd-wizard.js"></script>
+    <script>
+        // function payment(){
+        //   alert('success');
+        // }
+        function ShowSome() {
+
+            var name = document.getElementById('firstName').value;
+            alert('hello' + name);
+        }
+    </script>
+
+
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+                anchor.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    document.querySelector(this.getAttribute('href')).scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                });
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
