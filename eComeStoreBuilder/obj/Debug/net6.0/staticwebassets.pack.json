@@ -41,10 +41,6 @@
       "PackagePath": "staticwebassets\\css\\bd-wizard.css"
     },
     {
-      "Id": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min copy.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min copy.css"
-    },
-    {
       "Id": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },

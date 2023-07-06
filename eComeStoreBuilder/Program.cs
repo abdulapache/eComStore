@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using eComeStoreBuilder.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<eComeStoreBuilderContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("eComeStoreBuilderContext") ?? throw new InvalidOperationException("Connection string 'eComeStoreBuilderContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

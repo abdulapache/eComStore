@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2MKeRNYn/C7VSUSsIJYStrTAXGoZ4Nf/dSu6SsmB70g=",
+  "Hash": "TF2uryehuUS9VxPt0SYxQk/hVKShbfw1rlsme4ITgyM=",
   "Source": "eComeStoreBuilder",
   "BasePath": "_content/eComeStoreBuilder",
   "Mode": "Default",
@@ -100,23 +100,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bd-wizard.css"
-    },
-    {
-      "Identity": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min copy.css",
-      "SourceId": "eComeStoreBuilder",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\wwwroot\\",
-      "BasePath": "_content/eComeStoreBuilder",
-      "RelativePath": "css/bootstrap.min copy.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min copy.css"
     },
     {
       "Identity": "F:\\New folder (2)\\eComStore\\eComeStoreBuilder\\wwwroot\\css\\bootstrap.min.css",
